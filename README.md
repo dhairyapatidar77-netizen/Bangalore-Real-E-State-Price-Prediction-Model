@@ -45,7 +45,7 @@ cleaning to model evaluation.
 - Dropped irrelevant columns (area_type, society, balcony, availability)
 - Handled missing/null values by dropping incomplete rows
 - Standardized the `size` column (extracted BHK count from strings)
-- Cleaned the `total_sqft` column — converted range values (e.g. 2100–2850)
+- Cleaned the `total_sqft` column ,converted range values (e.g. 2100–2850)
   to their mean
 
 ### 3. Feature Engineering
