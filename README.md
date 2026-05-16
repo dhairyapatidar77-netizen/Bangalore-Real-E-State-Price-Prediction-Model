@@ -70,7 +70,7 @@ cleaning to model evaluation.
 - Used **GridSearchCV** to fine-tune hyperparameters
 - Validated generalizability of predictions on unseen property inputs
 
----
+
 
 ##  Results
 
@@ -79,6 +79,4 @@ cleaning to model evaluation.
 | Algorithm     | Multiple Linear Regression |
 | R² Score      | ~0.84 (update with your actual score) |
 
----
 
-## 📁 Project Structure
